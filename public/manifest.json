@@ -5,7 +5,6 @@
   "theme_color": "#F4BD42",
   "background_color": "#2B2929",
   "display": "standalone",
-  "scope": "http://localhost:3000/",
   "icons": [
     {
       "src": "/logo192.png",
